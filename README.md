@@ -1,6 +1,6 @@
-# Web[RE]Quest
+# Webrequest
 
-- **Intitulé et sujet du projet** : Web[RE]Quest - Application web de quiz sur le thème du Football
+- **Intitulé et sujet du projet** : Webrequest - Application web de quiz sur le thème du Football
 
 ## Description
 
@@ -30,11 +30,3 @@ Ce dépôt contient trois dossiers :
 - **Export DB** : Contient l’export de la base de données utilisée, comprenant un jeu d’essai complet.  
 - **Modélisations** : Contient le diagramme UML de classes de la base de données de Webrequest ainsi qu’un modèle logique des données.  
 - **Webrequest-V3** : La troisième et dernière version de Webrequest, développée avec le framework CodeIgniter.  
-
-### À propos de la V3
-
-La version 3 a été retenue comme version finale car nous avons souvent changé de version au cours du développement.  
-Ces changements successifs nous ont permis de :  
-- conserver des sauvegardes régulières,  
-- revenir en arrière facilement si nécessaire,  
-- préparer des démonstrations et tester différentes fonctionnalités sans risque de perte de données.
