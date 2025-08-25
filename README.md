@@ -29,4 +29,13 @@ Ce dépôt contient trois dossiers :
 
 - **Export DB** : Contient l’export de la base de données utilisée, comprenant un jeu d’essai complet.  
 - **Modélisations** : Contient le diagramme UML de classes de la base de données de Webrequest ainsi qu’un modèle logique des données.  
-- **Webrequest-V3** : La troisième et dernière version de Webrequest, développée avec le framework CodeIgniter.  
+- **Webrequest-V3** : La troisième et dernière version de Webrequest, développée avec le framework CodeIgniter.
+
+## Sauvegardes et versions
+
+Le projet Webrequest a été **sauvegardé, versionné et documenté** de manière progressive :  
+
+Le projet était stocké sur **deux serveurs de la faculté** et versionné sur le **GitLab de la faculté** également.  
+
+Le projet a été versionné et stocké de manière progressive, avec des versions telles que **V1, V1.1, V2, V2.2**, etc., permettant de **revenir en arrière en cas de problème** si nécessaire.
+
